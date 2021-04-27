@@ -28,7 +28,6 @@ The project files and folders are organized as follows:
 ```
 Skeet                   (project root folder)
   +-- game files        (specific game classes)
-  +-- images            (images and sounds folder)
   +-- README.md         (general info)
 
 ```
